@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.727272727272727" branch-rate="1" lines-covered="8" lines-valid="11" branches-covered="0" branches-valid="0" complexity="3" version="0" timestamp="1717501361">
+  <sources />
+  <packages>
+    <package name="TestCourseWork" line-rate="0.727272727272727" branch-rate="1" complexity="3">
+      <classes>
+        <class name="" filename="F:\Git\GitProjectAll\GitCoursework\CourseWork\CourseWork\main.cpp" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="main" signature="" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="16" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Person" filename="F:\Git\GitProjectAll\GitCoursework\CourseWork\CourseWork\main.cpp" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Person" signature="" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="TestCourseWork.TestCourseWork" filename="F:\Git\GitProjectAll\GitCoursework\Coursework\TestCourseWork\TestCourseWork.cpp" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="GetJohnDoe30normal" signature="" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="1" branch="false" />
+                <line number="17" hits="1" branch="false" />
+                <line number="18" hits="1" branch="false" />
+                <line number="19" hits="1" branch="false" />
+                <line number="20" hits="1" branch="false" />
+                <line number="21" hits="1" branch="false" />
+                <line number="22" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="16" hits="1" branch="false" />
+            <line number="17" hits="1" branch="false" />
+            <line number="18" hits="1" branch="false" />
+            <line number="19" hits="1" branch="false" />
+            <line number="20" hits="1" branch="false" />
+            <line number="21" hits="1" branch="false" />
+            <line number="22" hits="1" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
