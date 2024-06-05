@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<coverage line-rate="0.6428571428571429" branch-rate="1" complexity="12" version="1.9" timestamp="1717492389" lines-covered="81" lines-valid="126">
+<coverage line-rate="0.6428571428571429" branch-rate="1" complexity="12" version="1.9" timestamp="1717523644" lines-covered="81" lines-valid="126">
   <packages>
     <package line-rate="0.6428571428571429" branch-rate="1" complexity="12" name="TestCourseWork">
       <classes>
